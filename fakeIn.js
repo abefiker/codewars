@@ -6,7 +6,6 @@ function fakeBin(x) {
         } else {
             result += '1'
         }
-        console.log()
     }
     return result
 }
